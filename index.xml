@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Xianhui He</title>
+    <link>/</link>
+    <description>Recent content in Home on Xianhui He</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Authors Xianhui He 1 Hanif R 2 Huayu Wang 3 Ramy Ali 4 Nan Chen 5 Supervisors This project has been done under the supervision of:
+Project Mentor: Dr. Huihui Zhang 6 Project TA: Vinsea A V Singh 7 Course TA: Run Wang 8 Zhejiang University, xhhe.psy@gmail.com&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+University of Indonesia, hanif.rsiswanto@gmail.com&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+ShanghaiTech University, why123jj@126.com&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+University of Science and technology in Zewail City, s-ramy.ali@zewailcity.edu.eg&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+University College London, chennan5353@gmail.com&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+Peking University,, huihuizhang@pku.</description>
+    </item>
+    
+  </channel>
+</rss>
